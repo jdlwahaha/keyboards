@@ -93,6 +93,15 @@ h2 {
   visibility: hidden;
 }
 
+#reviewList { 
+  font-family: "Roboto Mono" "Courier New";
+
+  animation: 1500ms fadeIn;
+  animation-delay: 350ms;
+  animation-fill-mode: forwards;
+  visibility: hidden;
+}
+
 iframe { 
   animation: 2s slideInFromBottom;
   animation-delay: 4000ms;
